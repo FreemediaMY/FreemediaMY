@@ -19,7 +19,7 @@ provides some free international channels such as TVRI World, TRT World, CNA, NH
 
 ## What is FreelistenMY?
 
-Freelisten Malaysia (better known as FreelistenMY) is an unofficial collection of Malaysian's free to air radio/internet radio.
+Freelisten Malaysia, better known as FreelistenMY, is an unofficial collection of Malaysian's free to air radio/internet radio.
 
 ## These playlists are made for who?
 
@@ -27,17 +27,19 @@ For all Malaysians (or maybe for all people).
 
 ## How to use?
 
-A. For Televisions uses 
-
-Just copy the link below and apply it into any supported IPTV players on PCs, Macs, smart TVs, Android devices including Android TV and iOS.
+Just copy the link below and apply it into any supported players on PCs, Macs, smart TVs, Android devices including Android TV and iOS.
 [OTT Navigator app](https://ott-nav.com/) is highly recommended for Android users.
 
-```bash
-https://cutt.ly/FreeviewMY
-```
-B. For radio uses
+A. For television uses
 
+```bash
 COMING SOON
+```
+B. For only radio uses
+
+```bash
+COMING SOON
+```
 
 ## Electronic Programme Guide (EPG)
 
