@@ -29,7 +29,7 @@ For all Malaysians (or maybe for all people).
 
 Just copy the link below and apply it into any supported players on PCs, Macs, smart TVs, Android devices including Android TV and iOS.
 
-A. For television uses <small>([OTT Navigator app](https://ott-nav.com/) is highly recommended for Android users.
+A. For television uses </small>([OTT Navigator app](https://ott-nav.com/) is highly recommended for Android users.)<small>
 
 ```bash
 COMING SOON
