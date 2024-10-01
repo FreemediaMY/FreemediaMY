@@ -5,7 +5,7 @@ Freemedia Malaysia (or simply FreemediaMY) consists two media playlists namely F
 ## Disclaimer
 
 a. These internet protocol playlists are essentially open-source playlists and; 
-b. The contents from the playlists are 100% not affiliated with any 3rd party streaming providers. 
+</b>b. The contents from the playlists are 100% not affiliated with any 3rd party streaming providers. 
 c. Any transactions that regard buying or selling the playlists are STRICTLY PROHIBITED.
 d. I will take one of these contents down if the media owners ask to do so.
 e. Support the original media streaming platforms.
