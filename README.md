@@ -8,7 +8,7 @@ Freemedia Malaysia (or simply FreemediaMY, formerly known as FreeviewMY) consist
 
 - These internet protocol playlists are essentially open-source playlists and; 
 - The contents from the playlists are 100% not affiliated with any 3rd party streaming providers. 
-- Any transactions that regard buying or selling the playlists are STRICTLY PROHIBITED.
+- Any transactions that regard buying or selling these playlists are STRICTLY PROHIBITED.
 - I will take one of these contents down if the media owners ask to do so.
 - Support the original media streaming platforms.
 
