@@ -1,25 +1,45 @@
 # FreeviewMY
 
-Freeview Malaysia (or simply FreeviewMY) is an unofficial internet protocol television (IPTV)
-of the digital free-to-air television networks/channels as well as Digital/FM Radios
-that are exist in Malaysia. Besides free-to-air television channels, Freeview Malaysia also 
-provides some free international channels such as TVRI World, TRT World, CNA, NHK World, Arirang TV, CGTN, etc.
+# FreemediaMY
+
+Freemedia Malaysia (or simply FreemediaMY, formerly known as FreeviewMY) consists two media playlists namely Freewatch Malaysia and Freelisten Malaysia.
 
 ## Disclaimer
 
-This IPTV playlist is essentially an open-source playlist and 100% not affiliated with any 3rd party streaming providers. Therefore, any transactions that regard buying or selling the playlist is STRICTLY PROHIBITED.
+- These internet protocol playlists are essentially open-source playlists and; 
+- The contents from the playlists are 100% not affiliated with any 3rd party streaming providers. 
+- Any transactions that regard buying or selling the playlists are STRICTLY PROHIBITED.
+- I will take one of these contents down if the media owners ask to do so.
+- Support the original media streaming platforms.
 
-## The IPTV is for who?
+## What is FreewatchMY?
+
+Freewatch Malaysia, better known as FreewatchMY, formerly known as Freeview Malaysia (FreeviewMY), is an unofficial internet protocol television (IPTV)
+of the digital free-to-air television networks/channels as well as Digital/FM Radios
+that are exist within Malaysia. Besides free-to-air television channels, Freewatch Malaysia also 
+provides some free international channels such as TVRI World, TRT World, CNA, NHK World, Arirang TV, CGTN, etc.
+
+## What is FreelistenMY?
+
+Freelisten Malaysia, better known as FreelistenMY, is an unofficial collection of Malaysian's free to air radio/internet radio.
+
+## These playlists are made for who?
 
 For all Malaysians (or maybe for all people).
 
 ## How to use?
 
-Just copy the link below and apply it into any supported IPTV players on PCs, Macs, smart TVs, Android devices including Android TV and iOS.
-[OTT Navigator app](https://ott-nav.com/) is highly recommended for Android users.
+Just copy the link below and apply it into any supported players on PCs, Macs, smart TVs, Android devices including Android TV and iOS.
+
+A. For television uses ([OTT Navigator app](https://ott-nav.com/) is highly recommended for Android users.)
+
+```bash[
+FreewatchMY(https://dub.sh/FreewatchMY)
+```
+B. For only radio uses
 
 ```bash
-https://cutt.ly/FreeviewMY
+FreelistenMY(https://dub.sh/FreelistenMY)
 ```
 
 ## Electronic Programme Guide (EPG)
@@ -36,3 +56,4 @@ https://cutt.ly/FreeviewMY-EPG-2
 ## Credits
 
 1. [AqFad2811](https://github.com/AqFad2811/) for providing the EPGs and also the television channel resources.
+
