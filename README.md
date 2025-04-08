@@ -1,7 +1,6 @@
-## FreeviewMY is now FreemediaMY 😊
-
 # FreemediaMY
 
+## FreeviewMY is now FreemediaMY 😊 ##
 Freemedia Malaysia (or simply FreemediaMY, formerly known as FreeviewMY) consists two media playlists namely Freewatch and Freelisten.
 
 ## Disclaimer
