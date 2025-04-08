@@ -34,12 +34,12 @@ Just copy the link below and apply it into any supported players on PCs, Macs, s
 A. For television uses ([OTT Navigator app](https://ott-nav.com/) is highly recommended for Android users.)
 
 ```bash[
-[FreewatchMY](https://dub.sh/FreewatchMY)
+https://dub.sh/FreewatchMY
 ```
 B. For only radio uses
 
 ```bash
-[FreelistenMY](https://dub.sh/FreelistenMY)
+https://dub.sh/FreelistenMY
 ```
 
 ## Electronic Programme Guide (EPG)
