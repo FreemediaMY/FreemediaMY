@@ -37,7 +37,7 @@ A. For television uses ([OTT Navigator app](https://ott-nav.com/) is highly reco
 ```bash[
 https://dub.sh/FreewatchMY
 ```
-B. For only radio uses
+B. For only radio channels
 
 ```bash
 https://dub.sh/FreelistenMY
