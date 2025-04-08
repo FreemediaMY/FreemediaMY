@@ -1,4 +1,4 @@
-# FreeviewMY
+# FreeviewMY is now FreemediaMY 😊
 
 # FreemediaMY
 
