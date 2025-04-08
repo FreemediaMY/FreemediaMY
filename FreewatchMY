@@ -82,11 +82,7 @@ https://live-tvs.tvsarawak.my/live/tvs.m3u8
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
 https://stream2.smg.my/live/tvsplus.m3u8
-#EXTINF:-1 tvg-chno="126" tvg-id="SelangorTV.my" tvg-name="SelangorTV.my" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/SelangorTV.png",Selangor TV
-#EXTGRP:Family/Kids
-#EXTVLCOPT:network-caching=1000
-https://live.mana2.my/SelangorTv/index.m3u8
-#EXTINF:-1 tvg-chno="127" tvg-id="SUKETV.my" tvg-name="SUKETV.my" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/SUKETV.png",SUKE TV
+#EXTINF:-1 tvg-chno="126" tvg-id="SUKETV.my" tvg-name="SUKETV.my" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/SUKETV.png",SUKE TV
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
