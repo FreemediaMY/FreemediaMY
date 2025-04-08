@@ -2,7 +2,7 @@
 
 # FreemediaMY
 
-Freemedia Malaysia (or simply FreemediaMY, formerly known as FreeviewMY) consists two media playlists namely Freewatch Malaysia and Freelisten Malaysia.
+Freemedia Malaysia (or simply FreemediaMY, formerly known as FreeviewMY) consists two media playlists namely Freewatch and Freelisten.
 
 ## Disclaimer
 
@@ -12,16 +12,16 @@ Freemedia Malaysia (or simply FreemediaMY, formerly known as FreeviewMY) consist
 - I will take one of these contents down if the media owners ask to do so.
 - Support the original media streaming platforms.
 
-## What is FreewatchMY?
+## What is Freewatch?
 
-Freewatch Malaysia, better known as FreewatchMY, formerly known as Freeview Malaysia (FreeviewMY), is an unofficial internet protocol television (IPTV)
+Freewatch, better known as FreewatchMY, formerly known as Freeview Malaysia (FreeviewMY), is an unofficial internet protocol television (IPTV)
 of the digital free-to-air television networks/channels as well as Digital/FM Radios
 that are exist within Malaysia. Besides free-to-air television channels, Freewatch Malaysia also 
 provides some free international channels such as TVRI World, TRT World, CNA, NHK World, Arirang TV, CGTN, etc.
 
-## What is FreelistenMY?
+## What is Freelisten?
 
-Freelisten Malaysia, better known as FreelistenMY, is an unofficial collection of Malaysian's free to air radio/internet radio.
+Freelisten, better known as FreelistenMY, is an unofficial collection of Malaysian's free to air radio/internet radio.
 
 ## These playlists are made for who?
 
